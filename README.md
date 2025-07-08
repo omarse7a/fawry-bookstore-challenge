@@ -28,3 +28,6 @@ A Java-based bookstore management system that handles different types of books (
   - Shipping Service for paper books
   - Mail Service for e-books
   - Dynamic service switching based on book type
+
+## Demo
+![image](https://github.com/user-attachments/assets/58f3dbd5-01fa-40a5-a1fb-1518e75124f0)
